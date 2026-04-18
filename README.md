@@ -60,17 +60,3 @@ Unlike basic question generators, this platform focuses on **evaluation, persona
 git clone https://github.com/dhruvmeeena36/hireprep-ai.git
 cd hireprep-ai
 
-
-🎯 Use Case
-Practice technical & behavioral interviews
-Get AI-based performance feedback
-Improve confidence before real interviews
-⚠️ Limitations
-AI feedback depends on prompt quality
-No voice-based interview support yet
-No real-time interviewer interaction
-🔮 Future Improvements
-Voice-based interviews (speech-to-text)
-Resume-based question generation
-Real-time follow-up questions
-Analytics dashboard for performance tracking
